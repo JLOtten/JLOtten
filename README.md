@@ -9,11 +9,11 @@ ________________________________________________________________________________
 ## 📇 Find me here:
 ____________________________________________________________________________________________________________
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](www.linkedin.com/in/jlotten)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jlotten)
 
-[![Email](https://img.shields.io/badge/Email-Click%20to%20Contact-red)](mailto:jenna.otten@gmail.com)
+[![Email][(https://img.shields.io/badge/Email-Click%20to%20Contact-red)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenna.otten@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20to%20Visit-brightgreen)](https://www.jlotten.com/)
+[![Portfolio][(https://img.shields.io/badge/Portfolio-Click%20to%20Visit-brightgreen)](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white](https://www.jlotten.com/)
 
 
 
