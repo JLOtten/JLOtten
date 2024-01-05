@@ -1,16 +1,20 @@
-### Hi there 👋
+### 👋 Hi, I'm Jenna 👩🏻‍💻
+__________________________________________________________________________________________________________
 
-<!--
-**JLOtten/JLOtten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩🏻‍💻 I’m currently a software engineering apprentice with Develop Carolina, working at Booz|Allen|Hamilton.
+- 👨‍👩‍👦‍👦 I’m a mom of two active boys 👦🏻 👦🏼 and two wild dogs. 🐶 🐶
+- 👩🏻‍🏫 My background is in teaching and I'll always love learning new things.🤓
+- ⚽ I'm ususally watching youth sports on the weekends, 🐾 🦮 walking my dogs before dawn and 👩🏻‍💻 coding M-F.
 
-Here are some ideas to get you started:
+## 📇 Find me here:
+____________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](www.linkedin.com/in/jlotten)
+
+[![Email](https://img.shields.io/badge/Email-Click%20to%20Contact-red)](mailto:jenna.otten@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20to%20Visit-brightgreen)](https://www.jlotten.com/)
+
+
+
+
