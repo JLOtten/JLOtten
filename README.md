@@ -9,11 +9,17 @@ ________________________________________________________________________________
 ## 📇 Find me here:
 ____________________________________________________________________________________________________________
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jlotten)
+## Connect with me:
 
-[![Email][(https://img.shields.io/badge/Email-Click%20to%20Contact-red)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenna.otten@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](www.linkedin.com/in/jlotten)
 
-[![Portfolio][(https://img.shields.io/badge/Portfolio-Click%20to%20Visit-brightgreen)](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white](https://www.jlotten.com/)
+## Contact me:
+
+[![Email](https://img.shields.io/badge/Email-Click%20to%20Contact-red)](mailto:jenna.otten@gmail.com)
+
+## My Portfolio:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20to%20Visit-brightgreen)]([YourPortfolioURL](https://www.jlotten.com/)https://www.jlotten.com/)
 
 
 
