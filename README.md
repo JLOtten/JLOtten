@@ -2,7 +2,7 @@
 __________________________________________________________________________________________________________
 
 - 👩🏻‍💻 I’m currently a software engineering apprentice with Develop Carolina, working at Booz | Allen | Hamilton.
-- 👨‍👩‍👦‍👦 I’m a mom of two active and handsome boys 👦🏻 👦🏼 and two nice and cute dogs. 🐶 🐶
+- 👨‍👩‍👦‍👦 I’m a mom of two smart and handsome boys 👦🏻 👦🏼 and two nice and cute dogs. 🐶 🐶
 - 👩🏻‍🏫 My background is in teaching and I'll always love learning new things.🤓
 - ⚽ I'm ususally watching youth sports on the weekends, 🐾 🦮 walking my dogs before dawn and 👩🏻‍💻 coding M-F.
 
